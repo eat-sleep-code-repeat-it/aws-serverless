@@ -15,4 +15,5 @@ The Serverless Framework was designed to provision your AWS Lambda Functions, Ev
 
 ## AWS Lambda Power Tuning
 
-https://github.com/alexcasalboni/aws-lambda-power-tuning
+- Patterns for C# AWS Lambda Functions: https://kenhalbert.com/posts/useful-csharp-aws-lambda-function-patterns
+- https://github.com/alexcasalboni/aws-lambda-power-tuning
